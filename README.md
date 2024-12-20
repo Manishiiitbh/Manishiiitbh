@@ -50,20 +50,25 @@
 
 
 <br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manishiiitbh&show_icons=true)](https://github.com/Manishiiitbh)
-
-<br/>
+<!--
+[![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manishiiitbh&show_icons=true)](https://github.com/Manishiiitbh)
 
 <br/>
 
-<!--<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>-->
+<br/>
+
+<!--<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishiiitbh&show_icons=true)
 
 <br><br>
 
+-->
+[![Manish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Manishiiitbh&show_icons=true&theme=dark&bg_color=1a1a1a#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Manish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Manishiiitbh&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
 
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishiiitbh&layout=compact&theme=dark&bg_color=1a1a1a#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishiiitbh&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Manishiiitbh/github-readme-stats#gh-light-mode-only)
+
+[![Manish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manishiiitbh&theme=github-compact)](https://github.com/Manishiiitbh/github-readme-activity-graph)
 
 <hr>
 
